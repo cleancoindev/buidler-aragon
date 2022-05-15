@@ -36,7 +36,7 @@
   "dependencies": {
     "@solidity-parser/parser": "^0.6.0",
     "chalk": "^3.0.0",
-    "chokidar": "^3.3.1",
+    "chokidar": "^3.5.3",
     "ethers": "^4.0.46",
     "ethjs-ens": "^2.0.1",
     "execa": "^4.0.0",
