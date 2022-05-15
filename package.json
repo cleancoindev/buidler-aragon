@@ -41,7 +41,7 @@
     "ethjs-ens": "^2.0.1",
     "execa": "^4.0.0",
     "fs-extra": "^8.1.0",
-    "ganache-core": "^2.10.1",
+    "ganache-core": "^2.13.2",
     "http-proxy": "^1.18.0",
     "ipfs-http-client": "^42.0.0",
     "live-server": "^1.2.1",
