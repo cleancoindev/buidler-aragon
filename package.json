@@ -46,7 +46,7 @@
     "ipfs-http-client": "^42.0.0",
     "live-server": "^1.2.1",
     "node-fetch": "^2.6.0",
-    "open": "^7.0.0",
+    "open": "^7.4.2",
     "source-map-support": "^0.5.16",
     "tcp-port-used": "^1.0.1",
     "tsconfig-paths": "^3.9.0"
